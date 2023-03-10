@@ -1,0 +1,16 @@
+{
+    "keywordSingle": "import",
+    "keywordDirectory": "importdir",
+    "keywordMulti": "importmulti",
+    
+    "tabLength": 4,
+    "smartIndents": true, 
+    
+    "fileComments": true, 
+    "redundantImporting": false,
+    "packerWatermark": true,
+    "verboseLogs": true, 
+    
+    "outputFile": "compiled.lua",
+    "inputFile": "src/main.lua"
+}
